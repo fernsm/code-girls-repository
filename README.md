@@ -1,2 +1,3 @@
-# code-girls-repository
-Repositório com anotações e exercícios feitos durante a jorna do bootcamp.
+# Exercícios e anotações
+
+Registros feitos durante a jornada do bootcamp.
